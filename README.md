@@ -27,7 +27,7 @@ I'm Avale, an 19-year-old self-taught coder with a passion for cybersecurity. I'
 
 ## Contact <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGhb0JHr8aFJZE0wCZF9MbFQis5t71SVZyw&s" width = "50" height = "30"/>
 
-<img src = "https://user-images.githubusercontent.com/63065397/178047982-91863239-5cc3-467f-a988-63ce8673791e.png" width = "20" height = "15"/> Discord: [avale](https://discord.com/users/1230862608265904139) |
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width = "15" height = "15"/> Telegram: [Iightly](https://t.me/Iightly)
+<img src = "https://user-images.githubusercontent.com/63065397/178047982-91863239-5cc3-467f-a988-63ce8673791e.png" width = "20" height = "15"/> Discord: [Avale](https://discord.com/users/1230862608265904139) |
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width = "15" height = "15"/> Telegram: [Avale](https://t.me/Iightly)
 
 </div>
