@@ -5,7 +5,7 @@ hey!
 
 ## About Me <img src="https://i.pinimg.com/474x/49/20/41/4920418bda4e8898a226c2e6fd772d39.jpg" width = "50" height = "30"/>
 
-I'm Avale, an 18-year-old self-taught coder with a passion for cybersecurity. I've been coding for 3-4 years, exploring various programming languages and diving deep into the world of malware development. Currently, I'm focused on mastering C++ and honing my skills as a malware developer.
+I'm Avale, an 19-year-old self-taught coder with a passion for cybersecurity. I've been coding for 3-4 years, exploring various programming languages and diving deep into the world of malware development. Currently, I'm focused on mastering C++ and honing my skills as a malware developer.
 
 ## Skills <img src="https://p7.hiclipart.com/preview/41/950/365/smiley-emoji-emoticon-study-skills-smiley.jpg" width = "50" height = "30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
