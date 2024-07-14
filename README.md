@@ -13,9 +13,6 @@ i code n stuff
 <img src = "https://cdn.iconscout.com/icon/free/png-256/free-powershell-3521649-2945093.png" width = "30" height = "30"/>
 <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/nim_lang_logo_icon_169912.png" width = "30" height = "30"/>
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ki77ens&show_icons=true&theme=dark)
-
 ## Contact <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGhb0JHr8aFJZE0wCZF9MbFQis5t71SVZyw&s" width = "50" height = "30"/>
 
 <img src = "https://user-images.githubusercontent.com/63065397/178047982-91863239-5cc3-467f-a988-63ce8673791e.png" width = "20" height = "15"/> Discord: [Avale](https://discord.com/users/1230862608265904139) |
