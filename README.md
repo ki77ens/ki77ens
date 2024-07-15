@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ki77ens&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 # avale <img src="https://i.pinimg.com/564x/d7/fc/2b/d7fc2bea0f0096a490da51544a1af6b6.jpg" width = "50" height = "30"/>
 <img src="https://gifdb.com/images/high/cute-mini-typing-cat-d6gdd3z7yr66oktz.gif" width = "200" height = "150"/>
